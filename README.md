@@ -6,6 +6,11 @@ It involves towers and balls being thrown at you and we have to physically move 
 On hit, the game is over.
 
 How to Use:
+
 Run the code in a unity game engine.
+
 Connect the laptop to a kinect.
+
 Dodge the towers and balls to keep playing and replay it to try again.
+
+
